@@ -1,0 +1,19 @@
+{
+  "name": "peru-year-names",
+  "version": "1.0.0",
+  "description": "Directory of Peru's official year names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddybrando/peru-year-names.git"
+  },
+  "author": "Eddybrando Vásquez <dev@eddybrando.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddybrando/peru-year-names/issues"
+  },
+  "homepage": "https://github.com/eddybrando/peru-year-names#readme"
+}
